@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700,900&subset=cyrillic');
+
+body,
+input,
+textarea,
+button,
+select {
+    font: 400 16px 'Roboto', sans-serif, arial;
+    color: #252525;
+}
